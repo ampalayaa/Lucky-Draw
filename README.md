@@ -1,2 +1,2 @@
-# LuckyDraw 🎲🎉
-LuckyDraw is your go-to randomizer for that perfect blend of chance and excitement! Whether you're running a raffle, picking a winner, or just need a dose of randomness, LuckyDraw has you covered. With a spin of virtual fortune, who knows? Today might be your lucky day!
+# LuckyDraw 🎱💰🎉
+LuckyDraw is your gateway to the thrill of a digital lottery! With every draw, numbers are randomly selected, mimicking the suspense of a real-life lotto. Will your lucky numbers come up this time? Whether you're simulating a lottery, hosting a giveaway, or just testing your fortune, LuckyDraw brings the excitement of the jackpot right to your fingertips. Place your bets, cross your fingers, and let the numbers roll!
