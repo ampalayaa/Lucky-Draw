@@ -1,4 +1,7 @@
 # LuckyDraw 🎱💰🎉
-Frances Bea V. Magdayao
-Ken C. Cinco
+Owner:
+ampalayaa - Frances Bea V. Magdayao
+
+Collaborator:
+Kenjicci - Ken C. Cinco
 
